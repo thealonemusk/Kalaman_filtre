@@ -20,7 +20,7 @@ The Kalman Filter Color Detector is a Python application that utilizes the Kalma
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/thealonemusk/Kalaman_filtre
+   git clone https://github.com/thealonemusk/kalaman_filtre
 
 2. Install requirements
 3. Run the code pref(google collabs) 
