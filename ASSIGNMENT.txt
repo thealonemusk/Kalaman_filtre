@@ -1,0 +1,4 @@
+A) Subject line for email: First-Name_Assignment-Submission
+1) Showcase your code how you would implement Kalman Filter, while detecting color of the object detected and send all the collected information to a Json file. (Your videos are not judged based on accuracy of detections, but quality of your algorithms.)
+2) Please explain what is Hyperparameter Tuning, how do you do it and what is Model Ensembling?
+Submission: Your Code Files, Video, Json File and a Word Document.
